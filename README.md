@@ -29,7 +29,7 @@ a una API REST propia.
 
 **Tecnologías:** React · Node.js · Express · API REST · Postman
 
-🔗 [Ver repositorio](#)
+🔗 (https://github.com/Marina-santos-jimenez/Dental-Time-app.git)
 
 ## 📫 Contacto
 
